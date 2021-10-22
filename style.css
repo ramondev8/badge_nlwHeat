@@ -82,6 +82,14 @@ ul {
   justify-content: center;
 }
 
+ul li a {
+  transition: 0.3s;
+}
+
+ul li a:hover {
+  transform: translateY(-5px);
+}
+
 #logodoWhile {
   max-width: 250px;
   margin-top: 4rem;
