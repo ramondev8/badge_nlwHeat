@@ -2,7 +2,7 @@ const LinksSocialMedia = {
   github: 'ramondev8',
   youtube: 'channel/UCSfwM5u0Kce6Cce8_S72olg',
   instagram: 'ramondev8',
-  facebook: 'ramonbrs8',
+  facebook: 'ramondev8',
   twitter: 'ramondev8'
 }
 
